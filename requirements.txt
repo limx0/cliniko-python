@@ -1,0 +1,2 @@
+git+https://github.com/limx0/beckett.git@master#egg=beckett
+pytest
